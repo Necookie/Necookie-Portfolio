@@ -2,7 +2,7 @@
 
 Personal portfolio built with **Vite + React + TypeScript**.
 
-🌐 [Live Demo](https://necookie.github.io/gitprofile/)
+🌐 [Live Demo](https://necookie.dev/)
 
 ## Quick Start
 
@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-Visit `http://localhost:5173/gitprofile/`
+Visit `http://localhost:5173/`
 
 ## Build
 
@@ -24,3 +24,11 @@ npm run build
 ## Customization
 
 Edit `gitprofile.config.ts` to update your portfolio content.
+
+## License
+
+MIT
+
+---
+
+Made with ❤️ by Dheyn Michael Orlanda
