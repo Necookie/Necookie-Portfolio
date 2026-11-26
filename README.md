@@ -2,7 +2,7 @@
 
 Personal portfolio built with **Vite + React + TypeScript**.
 
-🌐 [Live Demo](https://necookie.dev/)
+🌐 [Live Demo](https://necookie-portfolio.dheynorlanda.me/)
 
 ## Quick Start
 
